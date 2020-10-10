@@ -3,7 +3,8 @@
 
 * _INTRODUCTION_ :
 
-The trouble is that the enterprise surroundings of these days is greater aggressive than it used to be. This results in extended strain within side the workplace. Therefore it is miles affordable to count on that unachievable enterprise dreams and an extended chance of unemployment can improve people's pressure levels. Often the non-stop presence of such elements turns into destructive to a person's health. Sometimes this can bring about minor illness. However it is able to take place that the worker develops a long time condition. So the data said we'll be working on is based on the data set of an already existing study about the prediction of absenteeism at work.
+One of the biggest challenges of enterprises is that surrounding is greater aggressive than it used to be. Those results in extended strain withinside the workplace. Therefore, the future of any enterprise depends on unachievable enterprise dreams, even an extended chance of unemployment can improve people's pressure levels. Often the non-stop presence of such elements turns into destructive to a person's health and consequently productivity of the company. 
+Accordingly, in this project absenteeism data was analyzed first with statistical and exploratory data analysis. Also, the preparation for the logistic regression model to get more insight and predict the occurrence of the subject.
 
 
 * _DATA_: 
